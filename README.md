@@ -10,14 +10,19 @@
 ```shell
 tar -zxvf ./Clash.for.Windows-0.20.36-x64-linux.tar.gz
 ```
+
 - 进入软件目录后双击 `cfw` 打开，或通过终端输入 `./cfw` 打开
+
 - 配置 Clash
 ![set clash](https://github.com/MorphBai/How-to-set-Clash/blob/main/set%20clash.png)
+
 - 配置网络代理
 	- 打开有线设置
-		![network proxy](https://github.com/MorphBai/How-to-set-Clash/blob/main/network%20proxy.png)
+	![network proxy](https://github.com/MorphBai/How-to-set-Clash/blob/main/network%20proxy.png)
+
 	- 修改网络代理为手动
 	![set network proxy](https://github.com/MorphBai/How-to-set-Clash/blob/main/set%20network%20proxy.png)
+
 - 配置系统代理
 	```shell
 	vim ~/.bashrc
